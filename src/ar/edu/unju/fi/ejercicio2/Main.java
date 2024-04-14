@@ -13,8 +13,8 @@ public class Main {
 		
 		System.out.println ("Nombre de un pais: " + pais);
 		System.out.println ("Edad de una persona: " + edad);
-		System.out.println ("Altura de un edificio: " + Alturaedificio + "metros");
-		System.out.println ("Precio de un producto: " + precioproducto + "dolares");
+		System.out.println ("Altura de un edificio: " + Alturaedificio + " metros");
+		System.out.println ("Precio de un producto: " + precioproducto + " dolares");
 		System.out.println ("Numero de telefono: " + Numerotelefono);
 		System.out.println ("Coseno de 0.5: " + cos);
 		
