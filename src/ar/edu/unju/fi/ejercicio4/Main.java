@@ -18,5 +18,4 @@ public class Main {
 		}
 		System.out.println ("el factorial del numero es: " + n);
 	}
-
 }
