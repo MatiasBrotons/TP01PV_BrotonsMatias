@@ -7,7 +7,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Creación de objeto utilizando el constructor por defecto
         Persona persona1 = new Persona();
         System.out.println("Ingrese DNI:");
         persona1.setDni(scanner.nextLine());

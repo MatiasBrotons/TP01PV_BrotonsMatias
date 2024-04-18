@@ -2,7 +2,7 @@ package ar.edu.unju.fi.ejercicio9.Main;
 
 import java.util.Scanner;
 
-import ar.edu.unju.fi.ejercicio9Model.Producto;
+import ar.edu.unju.fi.ejercicio9.model.*;
 
 public class Main {
 
